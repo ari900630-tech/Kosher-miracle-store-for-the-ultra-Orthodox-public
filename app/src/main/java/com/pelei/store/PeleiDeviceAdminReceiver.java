@@ -1,0 +1,1 @@
+package com.pelei.store; import android.app.admin.DeviceAdminReceiver; public class PeleiDeviceAdminReceiver extends DeviceAdminReceiver {}
